@@ -1,0 +1,8 @@
+﻿{
+  "CAN": false,
+  "AccCode": 4294901856,
+  "Id": 768,
+  "BPointMove": true,
+  "L_BPointMoveDelay": "600",
+  "R_BPointMoveDelay": "1000"
+}
