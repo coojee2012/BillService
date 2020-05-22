@@ -4,5 +4,9 @@
   "Id": 768,
   "BPointMove": true,
   "L_BPointMoveDelay": "600",
-  "R_BPointMoveDelay": "1000"
+  "R_BPointMoveDelay": "1000",
+  "CDRDir": "",
+  "BillServerAddress": "192.168.0.10",
+  "BillServerPort": 3303,
+  "PBXType": "zxj10" //zxj10 or gl40
 }
